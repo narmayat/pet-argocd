@@ -15,5 +15,5 @@ spec:
         app: nar-deploy
     spec:
       containers:
-      - image: nar24/takin:latest
+      - image: nar24/takin:6
         name: pet
